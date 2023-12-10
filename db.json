@@ -39,10 +39,12 @@
       "title": "Javascript news",
       "subtitle": "Что нового в JS за 2022 год?",
       "img": "https://miro.medium.com/v2/resize:fit:1400/1*Shk_5yhp2D-cWi40_4X4ow.jpeg",
-      "views": 1022,
+      "views": 1026,
       "createdAt": "26.04.2022",
       "userId": "1",
-      "type": ["IT"],
+      "type": [
+        "IT"
+      ],
       "blocks": [
         {
           "id": "1",
@@ -109,10 +111,12 @@
       "title": "Python news",
       "subtitle": "Что нового в JS за 2022 год?",
       "img": "https://images.hdqwalls.com/download/python-logo-4k-i6-1336x768.jpg",
-      "views": 5204,
+      "views": 5210,
       "createdAt": "26.02.2022",
       "userId": "1",
-      "type": ["IT"],
+      "type": [
+        "IT"
+      ],
       "blocks": [
         {
           "id": "1",
@@ -131,10 +135,12 @@
       "title": "Kotlin news 2019",
       "subtitle": "Что нового в JS за 2022 год?",
       "img": "https://miro.medium.com/max/1200/1*FNakkrty3kjOvNU8m5iQfw.png",
-      "views": 94002,
+      "views": 94008,
       "createdAt": "26.02.2019",
       "userId": "1",
-      "type": ["IT"],
+      "type": [
+        "IT"
+      ],
       "blocks": [
         {
           "id": "1",
@@ -153,10 +159,12 @@
       "title": "Scala news",
       "subtitle": "Что нового в JS за 2022 год?",
       "img": "https://global-uploads.webflow.com/5f8b0a1abe69652278dad51c/5f917aee7eae51a5a7fab928_5f87801e8cb61a5d0fdb7a5c_Scala.jpeg",
-      "views": 10222,
+      "views": 10239,
       "createdAt": "24.01.2022",
       "userId": "1",
-      "type": ["IT"],
+      "type": [
+        "IT"
+      ],
       "blocks": [
         {
           "id": "1",
@@ -175,10 +183,12 @@
       "title": "Golang news",
       "subtitle": "Что нового в JS за 2022 год?",
       "img": "https://www.freecodecamp.org/news/content/images/2021/10/golang.png",
-      "views": 10222,
+      "views": 10226,
       "createdAt": "26.02.2020",
       "userId": "1",
-      "type": ["IT"],
+      "type": [
+        "IT"
+      ],
       "blocks": [
         {
           "id": "1",
@@ -197,10 +207,12 @@
       "title": "Java news",
       "subtitle": "Что нового в JS за 2022 год?",
       "img": "https://andreyex.ru/wp-content/uploads/2018/05/Kak-ustanovit-Java-s-apt-na-Ubuntu-18.04.jpg",
-      "views": 1022,
+      "views": 1027,
       "createdAt": "26.02.2022",
       "userId": "1",
-      "type": ["IT"],
+      "type": [
+        "IT"
+      ],
       "blocks": [
         {
           "id": "1",
@@ -219,10 +231,12 @@
       "title": "Ruby news",
       "subtitle": "Что нового в JS за 2022 год?",
       "img": "https://res.cloudinary.com/practicaldev/image/fetch/s--oqV3akcU--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/pgnw91fs7tpxn0wyeqh2.jpg",
-      "views": 100,
+      "views": 197,
       "createdAt": "21.02.2022",
       "userId": "1",
-      "type": ["IT"],
+      "type": [
+        "IT"
+      ],
       "blocks": [
         {
           "id": "1",
@@ -241,10 +255,12 @@
       "title": "TypeScript news",
       "subtitle": "Что нового в JS за 2022 год?",
       "img": "https://miro.medium.com/max/1400/1*aTCN2ctKNoZupUCMP0hQuw.png",
-      "views": 102222,
+      "views": 102227,
       "createdAt": "26.02.2022",
       "userId": "1",
-      "type": ["IT"],
+      "type": [
+        "IT"
+      ],
       "blocks": [
         {
           "id": "1",
@@ -263,10 +279,12 @@
       "title": "Kotlin news",
       "subtitle": "Что нового в JS за 2022 год?",
       "img": "https://miro.medium.com/max/1200/1*FNakkrty3kjOvNU8m5iQfw.png",
-      "views": 1022,
+      "views": 1024,
       "createdAt": "26.02.2022",
       "userId": "1",
-      "type": ["IT"],
+      "type": [
+        "IT"
+      ],
       "blocks": [
         {
           "id": "1",
@@ -285,10 +303,12 @@
       "title": "Python news",
       "subtitle": "Что нового в JS за 2022 год?",
       "img": "https://images.hdqwalls.com/download/python-logo-4k-i6-1336x768.jpg",
-      "views": 1022,
+      "views": 1025,
       "createdAt": "26.02.2022",
       "userId": "1",
-      "type": ["IT"],
+      "type": [
+        "IT"
+      ],
       "blocks": [
         {
           "id": "1",
@@ -310,7 +330,9 @@
       "views": 1022,
       "createdAt": "26.02.2022",
       "userId": "1",
-      "type": ["IT"],
+      "type": [
+        "IT"
+      ],
       "blocks": [
         {
           "id": "1",
@@ -329,10 +351,12 @@
       "title": "Python news",
       "subtitle": "Что нового в JS за 2022 год?",
       "img": "https://images.hdqwalls.com/download/python-logo-4k-i6-1336x768.jpg",
-      "views": 1022,
+      "views": 1025,
       "createdAt": "26.02.2022",
       "userId": "1",
-      "type": ["IT"],
+      "type": [
+        "IT"
+      ],
       "blocks": [
         {
           "id": "1",
@@ -351,10 +375,12 @@
       "title": "Kotlin news",
       "subtitle": "Что нового в JS за 2022 год?",
       "img": "https://miro.medium.com/max/1200/1*FNakkrty3kjOvNU8m5iQfw.png",
-      "views": 1022,
+      "views": 1023,
       "createdAt": "26.02.2022",
       "userId": "1",
-      "type": ["IT"],
+      "type": [
+        "IT"
+      ],
       "blocks": [
         {
           "id": "1",
@@ -376,7 +402,9 @@
       "views": 1022,
       "createdAt": "26.02.2022",
       "userId": "1",
-      "type": ["IT"],
+      "type": [
+        "IT"
+      ],
       "blocks": [
         {
           "id": "1",
@@ -398,7 +426,9 @@
       "views": 1022,
       "createdAt": "26.02.2022",
       "userId": "1",
-      "type": ["IT"],
+      "type": [
+        "IT"
+      ],
       "blocks": [
         {
           "id": "1",
@@ -420,7 +450,9 @@
       "views": 1022,
       "createdAt": "26.02.2022",
       "userId": "1",
-      "type": ["IT"],
+      "type": [
+        "IT"
+      ],
       "blocks": [
         {
           "id": "1",
@@ -442,7 +474,9 @@
       "views": 1022,
       "createdAt": "26.02.2022",
       "userId": "1",
-      "type": ["IT"],
+      "type": [
+        "IT"
+      ],
       "blocks": [
         {
           "id": "1",
@@ -464,7 +498,9 @@
       "views": 1022,
       "createdAt": "26.02.2022",
       "userId": "1",
-      "type": ["ECONOMICS"],
+      "type": [
+        "ECONOMICS"
+      ],
       "blocks": [
         {
           "id": "1",
@@ -486,7 +522,9 @@
       "views": 1022,
       "createdAt": "26.02.2022",
       "userId": "1",
-      "type": ["SCIENCE"],
+      "type": [
+        "SCIENCE"
+      ],
       "blocks": [
         {
           "id": "1",
@@ -568,7 +606,15 @@
       "id": "1",
       "username": "admin",
       "password": "123",
-      "roles": ["ADMIN"],
+      "firstname": "Gerald",
+      "lastname": "Gillium",
+      "age": 34,
+      "currency": "USD",
+      "country": "United States of America",
+      "city": "California",
+      "roles": [
+        "ADMIN"
+      ],
       "features": {
         "isArticleRatingEnabled": true
       },
@@ -582,37 +628,21 @@
       "id": "2",
       "username": "user",
       "password": "123",
-      "roles": ["USER"],
-      "features": {
-        "isArticleRatingEnabled": false
-      },
-      "jsonSettings": {
-        "theme": "app_light_theme"
-      },
-      "avatar": "https://images.news18.com/ibnlive/uploads/2022/07/chris-evans-16574444474x3.jpg"
-    }
-  ],
-  "account": [
-    {
-      "id": "1",
-      "firstname": "Gerald",
-      "lastname": "Gillium",
-      "age": 34,
-      "currency": "USD",
-      "country": "United States of America",
-      "city": "California",
-      "username": "g-eazy",
-      "avatar": "https://lastfm.freetls.fastly.net/i/u/ar0/87da4c5ba4fb07d6876b53ac496d7ebf.jpg"
-    },
-    {
-      "id": "2",
       "firstname": "Captain",
       "lastname": "America",
       "age": 93,
       "currency": "USD",
       "country": "United States of America",
       "city": "New York",
-      "username": "cap",
+      "roles": [
+        "USER"
+      ],
+      "features": {
+        "isArticleRatingEnabled": false
+      },
+      "jsonSettings": {
+        "theme": "app_light_theme"
+      },
       "avatar": "https://images.news18.com/ibnlive/uploads/2022/07/chris-evans-16574444474x3.jpg"
     }
   ],
@@ -658,6 +688,43 @@
       "articleId": "17",
       "rate": 2,
       "id": 7
+    },
+    {
+      "userId": "1",
+      "articleId": "4",
+      "rate": 5,
+      "id": 8
+    },
+    {
+      "userId": "1",
+      "articleId": "7",
+      "rate": 5,
+      "id": 9
+    },
+    {
+      "userId": "1",
+      "articleId": "9",
+      "rate": 4,
+      "id": 10
+    },
+    {
+      "userId": "1",
+      "articleId": "10",
+      "rate": 3,
+      "id": 11
+    },
+    {
+      "userId": "1",
+      "articleId": "12",
+      "rate": 3,
+      "id": 12
+    },
+    {
+      "userId": "1",
+      "articleId": "13",
+      "rate": 2,
+      "feedback": "",
+      "id": 13
     }
   ]
 }
