@@ -41,9 +41,7 @@
       "img": "https://media.licdn.com/dms/image/D5612AQERw7-m6vjS8g/article-cover_image-shrink_720_1280/0/1690116406938?e=2147483647&v=beta&t=_vg5Fbu8aVoyysfoBj33FY86Xgm4DI6X5GhqwnK3XsM",
       "views": 21,
       "createdAt": "27.04.2024",
-      "type": [
-        "MOBILE_DEV"
-      ],
+      "type": ["MOBILE_DEV"],
       "blocks": [
         {
           "id": "0",
@@ -134,14 +132,12 @@
       "img": "https://xbsoftware.com/wp-content/uploads/2023/03/website-development-process-full-guide-1-fb.jpg",
       "views": 2,
       "createdAt": "27.04.2024",
-      "type": [
-        "MOBILE_DEV"
-      ],
+      "type": ["WEB_DEV"],
       "blocks": [
         {
           "id": "0",
           "type": "TEXT",
-          "title": "Вступи",
+          "title": "Вступ",
           "paragraphs": [
             "У сучасному світі веб-розробки технології швидко розвиваються, а вимоги користувачів стають все вищими. Щоб відповісти на ці вимоги та забезпечити високу якість інтерфейсів та функціоналу, веб-розробники все частіше використовують інтелектуальні системи та алгоритми. Інтеграція штучного інтелекту (AI) та машинного навчання (ML) в процес розробки веб-додатків відкриває нові можливості та перетворює стандартні рішення на інноваційні та ефективні інструменти."
           ]
@@ -267,9 +263,7 @@
       "currency": "USD",
       "country": "United States of America",
       "city": "California",
-      "roles": [
-        "ADMIN"
-      ],
+      "roles": ["ADMIN"],
       "features": {
         "isArticleRatingEnabled": true
       },
@@ -289,9 +283,7 @@
       "currency": "USD",
       "country": "United States of America",
       "city": "New York",
-      "roles": [
-        "USER"
-      ],
+      "roles": ["USER"],
       "features": {
         "isArticleRatingEnabled": false
       },
